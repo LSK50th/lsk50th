@@ -19,5 +19,5 @@ layout: home
 
 <!-- 아래에 이미지 추가 -->
 <p align="center">
-  <img src="/50th_logo.jpg" alt="50주년 로고" width="300">
+  <img src="/assets/img/50th_logo.png" alt="50주년 로고" width="300">
 </p>
