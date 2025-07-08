@@ -1,14 +1,21 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+  src: 50th_logo.jpg
+  alt: 50주년 로고
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  🎉 <strong>한국언어학회 창립 50주년 공동학술대회</strong>
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  📅 <strong>일시:</strong> 2025년 10월 31일 (금) - 11월 1일 (토)<br>
+  📍 <strong>장소:</strong> 서울대학교
+  🤝 <strong>공동주관:</strong> 한국언어학회 · 담화인지언어학회 · 생성문법학회 · 언어정보학회 · 음운론학회
+
+  <p>
+  👉 <a href="/call-for-paper/">발표모집</a><br>
+  👉 <a href="/program/">프로그램</a><br>
+  👉 <a href="/architects/">한국 현대언어학의 설계자들</a>
 </p>
