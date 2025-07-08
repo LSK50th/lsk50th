@@ -10,6 +10,10 @@ The 50th Anniversary Conference of the Linguistic Society of Korea
 
 
 
+
+
+
+
 날짜: 2025년 10월 31일 (금) - 11월 1일 (토)
 
 장소: 서울대학교
