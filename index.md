@@ -4,7 +4,6 @@ layout: home
 
 <!-- 배너 영역 시작 -->
 <div style="background-color: #f5f5f5; padding: 2em 0; text-align: center;">
-  <img src="/assets/img/50th_logo.png" alt="50주년 로고" style="width: 180px; border-radius: 8px;"><br>
   <h2 style="margin-top: 1em; font-size: 1.5em;">한국언어학회 창립 50주년 공동학술대회</h2>
   <p style="margin: 0.5em 0;">2025년 10월 31일 (금) ~ 11월 1일 (토) | 서울대학교</p>
 </div>
@@ -29,5 +28,5 @@ layout: home
 
 <!-- 이미지 정중앙 정렬 -->
 <div style="text-align: center; margin-top: 2em;">
-  <img src="/assets/img/50th_logo.png" alt="50주년 로고" width="300">
+  <img src="{{ '/assets/img/50th_logo.png' | relative_url }}" alt="50주년 로고" style="width: 200px;">
 </div>
