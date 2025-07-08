@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: 50th_logo.jpg
+  src: /50th_logo.jpg
   alt: 50주년 로고
 ---
 
