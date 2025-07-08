@@ -21,7 +21,7 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email
+      name: Email: lsk50th@gmail.com
       value: lsk50th@gmail.com
 
 # Build settings
