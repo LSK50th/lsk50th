@@ -12,12 +12,6 @@ layout: home
   🤝 <strong>공동주관:</strong> 한국언어학회 · 담화인지언어학회 · 생성문법학회 · 언어정보학회 · 음운론학회
 </p>
 
-<p>
-  👉 <a href="/call-for-paper/">발표모집</a><br>
-  👉 <a href="/program/">프로그램</a><br>
-  👉 <a href="/architects/">한국 현대언어학의 설계자들</a>
-</p>
-
 <!-- 이미지 정중앙 정렬 -->
 <div style="text-align: center; margin-top: 2em;">
   <img src="{{ '/assets/img/50th_logo.png' | relative_url }}" alt="50주년 로고" width="400">
