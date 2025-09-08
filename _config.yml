@@ -16,6 +16,8 @@ header:
       slug: /program
     - name: 한국 현대언어학의 설계자들
       slug: /pioneers      
+    - name: 오시는 길
+      slug: /come 
 
 footer:
   show_powered_by: true
