@@ -2,12 +2,12 @@
 layout: home
 ---
 
-<p>
+<p style="font-size: 1.6em;">
   🎉 <strong>한국언어학회 창립 50주년 기념 공동학술대회</strong>
   <strong>한국 현대언어학의 성장, 도전과 미래</strong>
 </p>
 
-<p>
+<p style="font-size: 1.3em;">
   📅 <strong>일시:</strong> 2025년 10월 31일 (금) - 11월 1일 (토)<br>
   📍 <strong>장소:</strong> 서울대학교<br>
   ✅ <strong>주최:</strong> 한국언어학회<br>
