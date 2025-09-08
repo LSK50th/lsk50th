@@ -2,6 +2,12 @@
 layout: home
 ---
 
+<!-- 이미지 정중앙 정렬 -->
+<div style="text-align: center; margin-top: 2em;">
+  <img src="{{ '/assets/img/50th_logo.jpg' | relative_url }}" alt="50주년 로고" style="max-width: 100%; width: 700px;">
+</div>
+
+
 <p style="font-size: 1.6em;">
   🎉 <strong>한국 현대언어학의 성장, 도전과 미래</strong>
 </p>
@@ -12,7 +18,3 @@ layout: home
   ✨ <strong>기조강연:</strong> David Beaver (The University of Texas at Austin) · Richard Sproat (Sakana AI)
 </p>
 
-<!-- 이미지 정중앙 정렬 -->
-<div style="text-align: center; margin-top: 2em;">
-  <img src="{{ '/assets/img/50th_logo.jpg' | relative_url }}" alt="50주년 로고" style="max-width: 100%; width: 700px;">
-</div>
