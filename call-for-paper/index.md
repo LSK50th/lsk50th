@@ -3,8 +3,8 @@
 # [Keynote Speech 1] 
 # Hell Raising: from the Politics of Language to the Meaning of Slurs
 
-<p style="font-size: 1.5em; font-weight: bold;">David Beaver</p>  
-(The University of Texas at Austin)
+<p style="font-size: 1.5em; font-weight: bold; color: #007BFF; display: inline;">David Beaver</p>  
+<span style="font-size: 1.2em; color: #555;">(The University of Texas at Austin)</span>
 
 ---
 
