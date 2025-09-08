@@ -1,12 +1,7 @@
----
-layout: home
----
-
 <!-- 이미지 정중앙 정렬 -->
 <div style="text-align: center; margin-top: 2em;">
   <img src="{{ '/assets/img/50th_logo.jpg' | relative_url }}" alt="50주년 로고" style="max-width: 100%; width: 500px;">
 </div>
-
 <p style="font-size: 1.3em;">
   ✅ <strong>주최:</strong> 한국언어학회<br>
   🤝 <strong>주관:</strong> 한국담화인지언어학회 · 한국생성문법학회 · 한국언어정보학회 · 한국음운론학회 · 서울대학교 언어학과<br>
