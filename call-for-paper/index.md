@@ -3,7 +3,7 @@
 # [Keynote Speech 1] 
 # Hell Raising: from the Politics of Language to the Meaning of Slurs
 
-**David Beaver**  
+<p style="font-size: 1.5em; font-weight: bold;">David Beaver</p>  
 (The University of Texas at Austin)
 
 ---
