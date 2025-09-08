@@ -17,5 +17,5 @@ layout: home
 
 <!-- 이미지 정중앙 정렬 -->
 <div style="text-align: center; margin-top: 2em;">
-  <img src="{{ '/assets/img/50th_logo.jpg' | relative_url }}" alt="50주년 로고" width="400">
+  <img src="{{ '/assets/img/50th_logo.jpg' | relative_url }}" alt="50주년 로고" style="max-width: 100%; width: 700px;">
 </div>
