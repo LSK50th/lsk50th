@@ -10,7 +10,7 @@ header:
   pages:
     - name: 홈
       slug: /
-    - name: 발표모집
+    - name: 기조강연
       slug: /call-for-paper
     - name: 프로그램
       slug: /program
